@@ -1,117 +1,175 @@
 <div align="center">
 
-# hey, i'm berkay.
+# berkay
 
-building things because i enjoy figuring out how they work.
+Frontend Developer
 
-currently spending most of my time learning frontend development, recreating interfaces, and slowly building projects that become better every week.
+Building modern web experiences with React, TypeScript, and Tailwind CSS.
+
+Currently recreating production interfaces, learning full stack development, and shipping projects.
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=2500&color=5865F2&center=true&vCenter=true&width=600&lines=React+Developer;Frontend+Enthusiast;UI+Recreation;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=5865F2&center=true&vCenter=true&width=700&lines=React+Developer;Frontend+Engineer;Always+Building+Something+New;berkayyy.tech" />
 
 </div>
 
 ---
 
-## about me
+# About
 
 ```ts
 const berkay = {
+    role: "Frontend Developer",
     location: "New York",
-    role: "Student & Frontend Developer",
 
-    currentlyWorkingOn: [
-        "Spotify UI Clone",
-        "Personal Portfolio",
+    currentlyBuilding: [
+        "Spotify Clone",
+        "Personal Portfolio"
     ],
 
     learning: [
         "React",
-        "Tailwind CSS",
         "TypeScript",
-        "Node.js"
+        "Node.js",
+        "Express",
+        "MongoDB"
     ],
 
     interests: [
-        "UI Design",
-        "Discord",
-        "Modern Web Apps",
-        "Clean Interfaces"
-    ],
-
-    goal: "Build products people actually enjoy using."
+        "Modern UI",
+        "Frontend Architecture",
+        "Discord Development",
+        "Open Source"
+    ]
 }
 ```
 
 ---
 
-## current focus
+# Current Workspace
 
-- rebuilding popular websites to understand how they work
-- writing cleaner React code every project
-- learning responsive layouts
-- improving animations and micro interactions
-- preparing larger full stack projects
+```console
+berkay@dev:~$ ls
 
----
+spotify-clone/
+portfolio/
+future-projects/
 
-## projects
+berkay@dev:~$ cd spotify-clone
 
-### Spotify Clone
+berkay@spotify:~$ status
 
-A recreation of Spotify's desktop application built with React and Tailwind CSS.
+✔ Sidebar
 
-Instead of copying code, I'm rebuilding the interface piece by piece to understand layouts, spacing, reusable components, responsiveness, and production UI patterns.
+✔ Home Feed
 
-Status
+✔ Header
 
-```text
-██████████████████░░░░ 78%
+✔ Responsive Layout
+
+✔ Search UI
+
+⏳ Music Player
+
+⏳ Authentication
+
+⏳ Playlist Pages
+
+Project Status
+
+███████████████████░░░ 82%
 ```
 
-Currently working on
+---
 
-- Home page
-- Search
-- Sidebar
-- Music player
-- Responsive layouts
+# Featured Project
+
+## Spotify Clone
+
+A recreation of Spotify's desktop web application built from scratch using React, Tailwind CSS, and Vite.
+
+The goal is not simply to copy Spotify's interface, but to understand how large production applications are structured while improving my frontend engineering skills.
+
+### Tech
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Live Demo
+
+Coming soon on
+
+```
+berkayyy.tech/spotify
+```
 
 ---
 
-## tech stack
+# Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,nodejs,express,mongodb,git,github,vscode,figma" />
 
-</div>
-
----
-
-## github stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## find me
+# Currently Learning
 
-Portfolio
+```text
+Frontend
+
+█████████████████████░ React
+
+███████████████████░░ TypeScript
+
+████████████████████░ Tailwind CSS
+
+Backend
+
+███████████████░░░░░ Node.js
+
+██████████░░░░░░░░░░ Express
+
+████████░░░░░░░░░░░░ MongoDB
+```
+
+---
+
+# Philosophy
+
+> Great interfaces aren't just designed.
+
+> They're engineered.
+
+I enjoy taking apart interfaces I admire and rebuilding them from scratch to understand every design decision behind them.
+
+Every project teaches me something new about frontend architecture, responsive layouts, accessibility, animations, and user experience.
+
+---
+
+# Connect
+
+🌐 Portfolio
 
 https://berkayyy.tech
 
-Projects
+💻 GitHub
 
-https://berkayyy.tech/spotify
+https://github.com/BillGatesCoding
 
-Discord
+💬 Discord
 
 berkay.dev
+
+---
+
+<div align="center">
+
+Thanks for stopping by.
+
+</div>
