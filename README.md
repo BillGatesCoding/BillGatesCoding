@@ -6,92 +6,111 @@ Frontend Developer
 
 Building modern web experiences with React, TypeScript, and Tailwind CSS.
 
-Currently recreating production interfaces, learning full stack development, and shipping projects.
+Currently recreating production interfaces and learning how modern web applications are built.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=5865F2&center=true&vCenter=true&width=700&lines=React+Developer;Frontend+Engineer;Always+Building+Something+New;berkayyy.tech" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=5865F2&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript;Always+Building+Something+New;berkayyy.tech" />
 
 </div>
 
 ---
 
-# About
+## System Status
 
-```ts
-const berkay = {
-    role: "Frontend Developer",
-    location: "New York",
+```console
+berkay@portfolio:~$ status
 
-    currentlyBuilding: [
-        "Spotify Clone",
-        "Personal Portfolio"
-    ],
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    learning: [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "MongoDB"
-    ],
+User           Berkay
 
-    interests: [
-        "Modern UI",
-        "Frontend Architecture",
-        "Discord Development",
-        "Open Source"
-    ]
-}
+GitHub         BillGatesCoding
+
+Role           Frontend Developer
+
+Portfolio      https://berkayyy.tech
+
+Focus          Frontend Development
+
+Currently      Spotify Clone
+
+Status         ██████████████████░░░ 83%
+
+Availability   🟢 Building
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# Current Workspace
+## Current Workspace
 
 ```console
 berkay@dev:~$ ls
 
-spotify-clone/
 portfolio/
+spotify-clone/
 future-projects/
 
 berkay@dev:~$ cd spotify-clone
 
-berkay@spotify:~$ status
+berkay@spotify:~$ project status
 
-✔ Sidebar
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✔ Home Feed
+Completed
 
-✔ Header
+✓ Sidebar
 
-✔ Responsive Layout
+✓ Home Feed
 
-✔ Search UI
+✓ Search Page
 
-⏳ Music Player
+✓ Header
 
-⏳ Authentication
+✓ Responsive Layout
 
-⏳ Playlist Pages
+✓ UI Components
 
-Project Status
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-███████████████████░░░ 82%
+Working On
+
+• Music Player
+
+• Playlist Pages
+
+• Authentication
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Next
+
+> Backend Integration
+
+> Animations
+
+> Final Polish
 ```
 
 ---
 
 # Featured Project
 
-## Spotify Clone
+## Spotify Desktop Clone
 
-A recreation of Spotify's desktop web application built from scratch using React, Tailwind CSS, and Vite.
+A recreation of Spotify's desktop web application built with React, TypeScript, Tailwind CSS, and Vite.
 
-The goal is not simply to copy Spotify's interface, but to understand how large production applications are structured while improving my frontend engineering skills.
+The objective isn't simply to copy Spotify's interface. The project focuses on understanding component architecture, responsive layouts, reusable UI patterns, and frontend engineering practices by rebuilding the application from scratch.
 
-### Tech
+### Progress
+
+```text
+█████████████████░░░ 83%
+```
+
+### Stack
 
 - React
 - TypeScript
@@ -100,7 +119,7 @@ The goal is not simply to copy Spotify's interface, but to understand how large 
 
 ### Live Demo
 
-Coming soon on
+Coming Soon
 
 ```
 berkayyy.tech/spotify
@@ -118,58 +137,86 @@ berkayyy.tech/spotify
 
 ---
 
-# Currently Learning
+## Environment
 
-```text
-Frontend
+```yaml
+Operating System:
+  Windows 11
 
-█████████████████████░ React
+Editor:
+  Visual Studio Code
 
-███████████████████░░ TypeScript
+Frontend:
+  React
+  TypeScript
+  Tailwind CSS
+  Vite
 
-████████████████████░ Tailwind CSS
+Backend:
+  Node.js
+  Express
 
-Backend
+Database:
+  MongoDB
 
-███████████████░░░░░ Node.js
+Version Control:
+  Git
+  GitHub
 
-██████████░░░░░░░░░░ Express
-
-████████░░░░░░░░░░░░ MongoDB
+Design:
+  Figma
 ```
 
 ---
 
-# Philosophy
+## Terminal
 
-> Great interfaces aren't just designed.
+```console
+berkay@portfolio:~$ cat goals.txt
 
-> They're engineered.
+• Continue improving React knowledge
 
-I enjoy taking apart interfaces I admire and rebuilding them from scratch to understand every design decision behind them.
+• Build more production-quality projects
 
-Every project teaches me something new about frontend architecture, responsive layouts, accessibility, animations, and user experience.
+• Learn backend development
+
+• Ship full stack applications
+
+• Keep designing clean user interfaces
+
+• Never stop learning
+```
 
 ---
 
-# Connect
+## Projects
+
+| Project | Status |
+|---------|--------|
+| 🎵 Spotify Clone | 🚧 In Development |
+| 🌐 Portfolio | ✅ Live |
+| 💻 Future Full Stack Projects | ⏳ Planned |
+
+---
+
+## Links
 
 🌐 Portfolio
 
 https://berkayyy.tech
 
+🎵 Spotify Clone
+
+https://berkayyy.tech/spotify *(Coming Soon)*
+
 💻 GitHub
 
 https://github.com/BillGatesCoding
-
-💬 Discord
-
-berkay.dev
 
 ---
 
 <div align="center">
 
-Thanks for stopping by.
+Thanks for visiting.
 
 </div>
